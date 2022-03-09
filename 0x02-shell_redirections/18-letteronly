@@ -1,2 +1,2 @@
-#!bin[D[D[D/bin/bash
-[A[C[C[C[C[C[C[C[C[C[C[C
+#!/bin/bash
+grep '^[[:alpha:]]' /etc/ssh/sshd_config
